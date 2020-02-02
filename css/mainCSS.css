@@ -67,7 +67,6 @@ h2 {
             .github-link:active {
             text-decoration: none; }
 
-
     /* YOUTUBE HYPERLINK DECORATIONS */
 
             .youtube-link:link {
@@ -149,59 +148,61 @@ h2 {
     left: 0px;
     top: 50px;
     font-size:8.645rem;}
-    
+.full-name {
+    font-size:4.0rem;}
+
 /* ICONS */
 
 .monitor1 {
     position: absolute;
     height: 100px;
     left: 350px;
-    top:1000px;}
+    top:1100px;}
 .editing1 {
     position: absolute;
     height: 100px;
     right: 350px;
-    top:1000px;}
+    top:1100px;}
 .mixer {
     position: absolute;
     height: 100px;
     left:1150px;
-    top:1102px;}
+    top:1250px;}
 .photo1 {
     position: absolute;
     height: 100px;
     right:1150px;
-    top:1102px;}
+    top:1250px;}
 .html1 {
     position: absolute;
     height: 100px;
     left:350px;
-    top:1400px;}
+    top:1500px;}
 .js1 {
     position: absolute;
     height: 100px;
     right: 350px;
-    top:1400px;}
+    top:1500px;}
 .ps1 {
     position: absolute;
     height: 100px;
     right: 300px;
-    top:2000px;}
+    top:2050px;}
 .ai1 {
     position: absolute;
     height: 100px;
     left: 300px;
-    top:2000px;}
+    top:2050px;}
 .camera1 {
     position: absolute;
     height: 100px;
     left: 170px;
-    top:2200px;}
+    top:2255px;}
 .video-camera {
     position: absolute;
     height: 100px;
     right: 170px;
-    top:2200px;}
+    top:2255px;}
 
 /* BODY CONTENTS */
 
