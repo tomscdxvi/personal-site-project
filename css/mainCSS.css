@@ -1,0 +1,219 @@
+body {
+    font-family:'Cormorant Garamond', serif;
+    height: 100%}
+        
+          h1 {
+            letter-spacing: 8px;
+          }
+          
+          h5 {
+            letter-spacing: 3px;
+          }
+          
+          .hr-light {
+            border-top: 2px solid #fff;
+            width: 50%px;}
+            
+p {
+    color: white;
+    }
+
+img {
+    opacity:0.8;
+}
+
+img:hover {
+    opacity: 1;
+}
+
+h1 {
+    color: white;}
+
+.brand-name {
+    font-size: 4rem;
+    line-height: 1.5;
+    padding:52% 0 ;}
+
+.photo-cin {
+    font-size: 1.5rem;}
+
+.name-insert {
+    color:black;
+    font-size:2rem;}
+
+/* Nav Bar */
+
+.navbar-brand{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;}
+
+.container-fluid{
+    padding: 3% 15%;}
+
+#navbarNav {
+    font-size: 1.5rem;}
+
+#evil-gen {
+    width: 100%;
+    padding:25% 0 0 0 ;}
+
+#social-media {
+    height:50px;
+    }
+
+.icons {
+    color:white;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.contain-socials{
+    padding-top:80px;
+    height:25px;}
+
+/* CONTACT HYERLINK STYLES */
+.contact-link{
+    height:70px;
+    }
+
+.contact-link:hover {
+   color:#c06c84; }
+
+/* YOUTUBE HYPERLINK STYLES */
+
+.youtube-link {
+    padding-right:10%;
+    height:70px;
+    position:relative;}
+
+.youtube-link:hover {
+    color:#c06c84;  }
+
+
+/* GITHUB HYPERLINK STYLES */
+
+.github-link {
+    padding-right:10%;
+    height:70px;} 
+
+.github-link:hover {
+    color:#c06c84;}
+
+/* FLATICON */
+
+.flaticon1:link {
+    font-family: 'Cormorant Garamond', serif;
+    color:white; }
+        .flaticon1:visited {
+    color:white; }
+        .flaticon1:hover {
+    color:#c06c84; }
+              
+    /* DECORATIONS */
+
+.flaticon1:link {
+    text-decoration: none; }
+    .flaticon1:visited {
+    text-decoration: none; }
+    .flaticon1:hover {
+    text-decoration: none; }
+    .flaticon1:active {
+    text-decoration: none; }                                           
+                                        
+/* SMASHICON */        
+
+.smashicon1:link {
+    font-family: 'Cormorant Garamond', serif;
+    color:white; }
+            .smashicon1:visited {
+    color:white; }
+            .smashicon1:hover {
+    color:#c06c84; } 
+                  
+    /* DECORATIONS */
+
+.smashicon1:link {
+    text-decoration: none; }
+    .smashicon1:visited {
+    text-decoration: none; }
+    .smashicon1:hover {
+    text-decoration:none; }
+    .smashicon1:active {
+    text-decoration:none; }                                                 
+                                        
+/* FREEPIK */
+
+.freepik:link {
+    font-family: 'Cormorant Garamond', serif;
+    color:white; }
+        .freepik:visited {
+    color:white; }
+        .freepik:hover {
+    color:#c06c84; }
+    
+    /* DECORATIONS */
+
+.freepik:link {
+    text-decoration: none; }
+    .freepik:visited {
+    text-decoration: none; }
+    .freepik:hover {
+    text-decoration: none; }
+    .freepik:active {
+    text-decoration: none; }                                               
+
+/* THOSE ICONS */
+
+.those-icons:link {
+    font-family: 'Cormorant Garamond', serif;
+    color:white; }
+            .those-icons:visited {
+    color:white; }
+            .those-icons:hover {
+    color:#c06c84; }
+
+    /* DECORATIONS */
+                                                    
+.those-icons:link {
+    text-decoration: none; }
+    .those-icons:visited {
+    text-decoration: none; }
+    .those-icons:hover {
+    text-decoration: none; }
+    .those-icons:active {
+    text-decoration: none; }     
+    
+.front-page {
+    color: white;}
+
+
+    
+                                                                                                
+/* FOOTER */
+
+
+#footer {
+    text-align: center;}
+        #footer-btm {
+            height:50px;}
+
+#portfolio-button {
+    color:white !important;
+    background-color:black !important;}
+
+#about-me-button {
+    color:white !important;
+    background-color:black !important;}
+
+    #portfolio-button:hover {
+        background-color:#434e52 !important;}
+
+    #about-me-button:hover {
+        background-color:#434e52 !important;}
+
+#introduction {
+    font-size:3rem;
+    text-emphasis: filled;}
+            
+#title {
+    background-color:black;}

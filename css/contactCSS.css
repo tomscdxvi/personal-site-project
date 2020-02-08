@@ -1,0 +1,35 @@
+/* TAG SELECTORS */
+
+body {
+
+        background-color:white;        
+}
+
+h1 {
+        color:white;
+}
+/* CLASS SELECTORS */
+
+.head1 {
+        background-color:#303036;
+        text-align: center;
+        height:40px;
+        width: 50%;
+}
+
+.information {
+       position: absolute;
+       bottom:450px;
+
+}
+
+.message {
+        position: relative;
+        left: 500px;
+        bottom: 45px;
+
+}
+
+.email-heading {
+        font-family:'Courier New', Courier, monospace;
+}
